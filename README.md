@@ -25,7 +25,7 @@ cd /sdcard/ && git clone https://github.com/pxzmods/Yosuke-bot.git
 ```
 4 comando: 
 ```
-cd /sdcard/Yosuke-bot && sh start.sh
+cd /sdcard/Yosuke-md && sh start.sh
 ```
 
 📌Acesse nosso grupo de sup & info: https://chat.whatsapp.com/JE2P2XZHUQFKIIWZChm7pT
