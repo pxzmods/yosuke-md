@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Nn",
+    "groupId": "120363223514964593@g.us",
+    "x9": true,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "antiddd": false,
+    "listanegra": [],
+    "advertir": [],
+    "antidddlist": [],
+    "prefixos": [
+      "."
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "*Olá 👋 Seja bem vindo*\n\n*• User: @⁨Dipierro Jansem⁩*\n\n*⚠️ Abaixo estará as regras de que não pode no chat ⚠️*\n\n*1• não pode burlar os comandos de RPG ou tentar para se beneficiar a si próprio sujeita abanimento* \n\n*2• não é permitido qualquer tipo de gole ou pornografia sujeito abanimento*\n\n*3• desrespeitar o administrador sujeito a banimento*\n\n*4• flodar o bot com vários comandos na mesma hora sujeito a suspensão de 3 horas sem usar o bot*\n\n*Prefixo: .*",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": false
+  }
+]
