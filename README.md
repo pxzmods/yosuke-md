@@ -21,7 +21,7 @@ Permita para acessar seu armazenamento
 
 3 comando:
 ```
-cd /sdcard/ && git clone https://github.com/pxzmods/Yosuke-bot.git
+cd /sdcard/ && git clone https://github.com/pxzmods/Yosuke-md.git
 ```
 4 comando: 
 ```
